@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+   
+    <hotel>
+        <name>M.Hotel</name>
+        <category>5</category>
+      
+        <rooms>
+            <room type="Double">
+                <price currency="USD">350</price>
+                <description>Spacious double room with king-size bed, ocean view, balcony, and marble bathroom.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">250</price>
+                <description>Comfortable single room with city view, modern amenities, and complimentary breakfast.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">300</price>
+                <description>Elegant twin room with two queen beds, private terrace, and luxury bathroom facilities.</description>
+            </room>
+        </rooms>
+          <url>https://www.mhotel5stars.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Royal Orchid Resort</name>
+        <category>5</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">370</price>
+                <description>Deluxe double suite with panoramic ocean views and private hot tub.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">260</price>
+                <description>Modern single room with minimalist design and access to the executive lounge.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">320</price>
+                <description>Luxurious twin room featuring two double beds, sea view, and marble flooring.</description>
+            </room>
+        </rooms>
+           <url>https://www.royalorchidresort.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Grand Sapphire Hotel</name>
+        <category>5</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">340</price>
+                <description>Premium double room with smart technology, soundproof walls, and mini-bar.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">230</price>
+                <description>Cozy single room ideal for business travelers, includes work desk and Wi-Fi.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">290</price>
+                <description>Stylish twin room with designer furniture and full access to the wellness spa.</description>
+            </room>
+        </rooms>
+         <url>https://www.grandsapphirehotel.com</url>
+    </hotel>
+
+  
+    <hotel>
+        <name>The Manor Hotel</name>
+        <category>4</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">180</price>
+                <description>Elegant double room with queen bed, ensuite bathroom, and free breakfast.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">140</price>
+                <description>Comfortable single room with smart TV and complimentary coffee.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">160</price>
+                <description>Twin room with two single beds and a cozy seating area.</description>
+            </room>
+        </rooms>
+         <url>https://www.themanorhotel.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Sunrise Boutique Hotel</name>
+        <category>4</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">190</price>
+                <description>Modern double room with balcony and partial sea view.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">130</price>
+                <description>Compact single room with work desk and free Wi-Fi.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">170</price>
+                <description>Twin room with bright decor and spacious bathroom.</description>
+            </room>
+        </rooms>
+         <url>https://www.sunriseboutiquehotel.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Harbor View Hotel</name>
+        <category>4</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">200</price>
+                <description>Stylish double room overlooking the harbor with modern facilities.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">150</price>
+                <description>Well-equipped single room ideal for short stays and business trips.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">175</price>
+                <description>Comfortable twin room with two single beds and large windows.</description>
+            </room>
+        </rooms>
+         <url>https://www.harborviewhotel.com</url>
+    </hotel>
+
+
+    <hotel>
+        <name>Greenfield Inn</name>
+        <category>3</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">120</price>
+                <description>Cozy double room with free Wi-Fi and complimentary breakfast.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">90</price>
+                <description>Budget-friendly single room with comfortable bedding and air conditioning.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">110</price>
+                <description>Simple twin room with two beds and private bathroom.</description>
+            </room>
+        </rooms>
+         <url>https://www.greenfieldinn.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Blue Sky Hotel</name>
+        <category>3</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">130</price>
+                <description>Double room with balcony, garden view, and TV.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">95</price>
+                <description>Single room with compact layout, suitable for short stays.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">115</price>
+                <description>Twin room with two beds and modern bathroom.</description>
+            </room>
+        </rooms>
+          <url>https://www.blueskyhotel.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Central Park Lodge</name>
+        <category>3</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">125</price>
+                <description>Comfortable double room near downtown, with modern amenities.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">100</price>
+                <description>Quiet single room ideal for solo travelers.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">115</price>
+                <description>Simple twin room with free Wi-Fi and breakfast option.</description>
+            </room>
+        </rooms>
+           <url>https://www.centralparklodge.com</url>
+    </hotel>
+
+
+    <hotel>
+        <name>Budget Stay Inn</name>
+        <category>2</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">80</price>
+                <description>Basic double room with clean design and free Wi-Fi.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">60</price>
+                <description>Small single room with private bathroom and TV.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">75</price>
+                <description>Twin room with two beds and complimentary coffee.</description>
+            </room>
+        </rooms>
+          <url>https://www.budgetstayinn.com</url>
+    </hotel>
+
+    <hotel>
+        <name>City Budget Hotel</name>
+        <category>2</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">85</price>
+                <description>Affordable double room with minimal decor and daily cleaning.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">65</price>
+                <description>Single room suitable for backpackers and short stays.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">78</price>
+                <description>Simple twin room with shared lounge access.</description>
+            </room>
+        </rooms>
+         <url>https://www.citybudgethotel.com</url>
+    </hotel>
+
+    <hotel>
+        <name>Comfort Lodge</name>
+        <category>2</category>
+        <rooms>
+            <room type="Double">
+                <price currency="USD">90</price>
+                <description>Double room with air conditioning and private shower.</description>
+            </room>
+            <room type="Single">
+                <price currency="USD">70</price>
+                <description>Compact single room offering great value for money.</description>
+            </room>
+            <room type="Twin">
+                <price currency="USD">85</price>
+                <description>Twin room with free parking and continental breakfast.</description>
+            </room>
+        </rooms>
+         <url>https://www.comfortlodge.com</url>
+    </hotel>
+</hotels>
